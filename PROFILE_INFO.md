@@ -4,17 +4,19 @@
 
 ## 基本信息
 
-- **GitHub 用户名：** your-github-username
-- **显示名称：** Your Name
+- **GitHub 用户名：** modengsir
+- **显示名称：** modengsir
 - **一句话英文介绍：** I build useful tools that help creators work faster.
 
 ## 联系方式
 
-- **邮箱：** you@example.com
-- **X 用户名（不要写 @）：** your_x_handle
-- **X 主页链接：** https://x.com/your_x_handle
-- **小红书名称：** 你的小红书昵称
-- **小红书主页链接：** https://www.xiaohongshu.com/user/profile/your-id
+- **邮箱：** modengsir@gmail.com
+- **X 用户名（不要写 @）：** modengsir
+- **X 主页链接：** https://x.com/modengsir
+- **小红书名称：** modengsir
+- **小红书主页链接：** https://www.xiaohongshu.com/user/profile/modengsir
+- **公众号主页链接：**
+- **微信号** modengsir001
 
 ## 个人识别色
 
